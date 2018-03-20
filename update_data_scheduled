@@ -1,0 +1,1 @@
+*/5 * * * * root python /home/bandhan/code/update_data.py

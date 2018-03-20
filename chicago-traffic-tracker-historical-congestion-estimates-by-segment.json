@@ -1,0 +1,8001 @@
+[ {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b36ef009184bf12cb03b8f53f4622aca08103298",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0a540ebb66320a62b1e67312c1e4d46c6a529b4f",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "753f663efc10eec8b261335bd80799c9eb0b9e50",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d177dc23233c1825df394a3582e10ecc045fd393",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "96327efafb784879783dac9f69a847c49af66900",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d3ad49a330b281923c9fafe47573d70caa63c05f",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b76ad3c9cb876ff23fb12c49956dd9dd19e91f41",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "72c35edea5a7782d3c832e8924e7e10df116c91e",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7c04f24d8599409a45549e2b086d1d129924836f",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "3",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0f3f61cd340cd150d6cc0d4b649fabc38cfa98d0",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0f031ee1456446b1fda6d70474aeb69c90bdfc9c",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "4cb2f0950b0b53a4a40fbfd2944920de629521a3",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "494a81db478569663590891f8a514fbee93a710a",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "30"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1cfa8c1d63d1596fe4d87c61110f40fb083a46e4",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "15"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7158108b615b98117f0d7a6f8e6a3db5a96c81ff",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "47b75586c6a9c00c9a262fcb40eab50ddb3085af",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c0986a2e39d11f7b421149641d95f2aa91a572fe",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "395cd38109d3a8b8ce398fcdf59fe78827ed51c9",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6a52d794035d3e0056e8b0efea5e1ac35c3df9b7",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e99bcb667fb6d1603f0c0b21e03f64e702027f8f",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "72f5786e0930a9a3d5e9ee8e71f31bbbb140caa0",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "343afcb5d2f179b9e13598f7e06ffe2dec143866",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "986d93737abc29e498baebe7b932ea6d207b8658",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ba2163977c9a8ded0bd15ff4bdda0044ff63adc9",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "07dae4a1e7dad6a0cf3fc65c9f8dd6c6596e8421",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "3348553679debbce1bb653190f2a976892fcc078",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "aca7eb75644779b7bffa91f6ec63a38620f09520",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "029e50affd61753016d4723720c86c4500b3815b",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6d53261a5c8e601f1782901e6c03d026a25fa3d6",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "cb19ab9e3f69fcfe24d0714e7aa38ed1f2c55a9e",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e40ad3efe9d06c35e28a012e0ef5e01b50c0fdc5",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "cd1810ad7ec90898c99afadb2ac6d23ab16f99c6",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "076c6295fc082af53cc07eb4efad3c16f6725cdb",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "380071b995acb3afb583513171481201b96b6d64",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "2",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "4c892ca1b8d19a1c379ce02df6286d31b091b8f3",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e618691f4a5d0fcfc1de4d837b32d032960dc9dd",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "74c5c8b70d0737e40e453ad8278cde58db513136",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5151478cc6798298e20457ddfca4e8c74a513009",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "619834712abec6bb96a965b7343c051f50f4bd3b",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "4e1ee6c9079da3952e469a91b22a1cbadb593889",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "8fa9baa208b7335929bfe0479b230fbef7ecaa97",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d980b8b1753ff3b1b88e5c8ff5503d1b8395cde9",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e103075e033153cf5a647f8b7f9d961838885865",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "29"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "85136ecd1eebb8acbea6435d2d1f8b8014cbbf0a",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5c37a7cb986d81b5c7cbad917aad7e4cd435a547",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "97435b2398c92dcecd2f8bdeeb8b57cabf7f50fa",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "91f0ff21bd5a6b95034bb996da56ce8aa431bf76",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a3bfc5ad31432edfb8019e49a95a4b2971b3a451",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "3a03ca1ae6eebd94081139061e3107936a818e18",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "3",
+  "traffic" : "13"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "81c30aba0f5a95ddbe231391d8f27c70b5d3aeba",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6bc55df32a0c7bb599a9b462007dc6834a645016",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "34"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b68a5ab953c2cd9187a56b652cda02db1b4f2d2a",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "661e9abb7e2df9f29f1625dca6016b754aed81ea",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "86feba1f73ecef95479af85008a37ce1282c134d",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "12b59fa37c39d57f07e7cb116e35348ab9cb4068",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "2",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "36bb0d634f30af093d617f2951aae32f701caaa2",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "3f72d6104950ca557e73877d80181391a17d5747",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "94160b9f33f2652f51561256a3acd5bc81415b0b",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "3",
+  "traffic" : "35"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1c66cdd77658eb3860fdc9e940831d15e6e841ba",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9239e90e9a814a0d58a5aae9cc67e8f676a61030",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "285e003b99e1551dbec812f3ab6014c5185da3fc",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c3054ee01462deb24b5c43e09111a8a4485f9c67",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e82000410347736f7649d2b1fbe8daea25231d77",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "8e0801406e195aed84be8af6316e05da906be2db",
+  "segment_id" : "1",
+  "bus_count" : "3",
+  "msg_count" : "12",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a9674abdb0dc32490cb7cf9c8f40ea91d88dc114",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7924dad2ddd8a48eff1596592d32b58f12255bc0",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e4a8e9873ad17a28572c1c984253850c0166d896",
+  "segment_id" : "1",
+  "bus_count" : "2",
+  "msg_count" : "7",
+  "traffic" : "31"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "8ce56637294c3f58dadb867bc664081f59ac01a5",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "89393a9c516367183f827a7481baa5af11385119",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0ca8a66370ee33615e0ac70f0bd5037626ec3768",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "cf2dd371d993352a6d352abb9a244160488870ce",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5b8a558a224f4c30b36d40bd9d102f3107112c56",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "15f9c19e4d52ab8db8f1a2c149428b8d32b4b839",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d714d43a8c901b7b79afe588e0bc9e9f72d4765b",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "de2ff75823fb8899fac32fe3ab7b3684dcd40de8",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7390b9ed2eb56e448a96637663ad5bf645296c01",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "384628c2e2f9a91127800c00e3ee257322003126",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "29ad6bd7a82dae2b5d27fe5564f36c6904b8036f",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9b92f32b9077a23160d8604c8311436012e06b64",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "14bdf3ef7e8ce884702680cdf8525d43465afbcf",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6e2d006e7da5d6a0811db4dce684f15f2e843c1a",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d452d384cc8644f424147311932746f2ab41dd9c",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "13"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b69490ab1abd8a870e77190773c4242a7e06c014",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "713f2c0e5022364c1e86ea70014d6edb3a01c4ab",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5162861ce4b04aa4a938072ff2e305bace99c03b",
+  "segment_id" : "1",
+  "bus_count" : "2",
+  "msg_count" : "9",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "408ab599c7bbf10bf5d506a24472f8657f401ca7",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "3",
+  "traffic" : "15"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e633deda0ef64068fff4c004e02915eead2d8d10",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d1cbaf338c1356b932c5cd053cc4805b3e7a350d",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "29"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0a22fa5dcd92756875b34893e9a8738c40ea4428",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "08875b91bbfc9c13c4e35b07d4df77740f0b8a54",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "2",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1626d2ed49bbf3f106bdabcc7ac073d17c6e7cf9",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "2",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b4f1e79a415a88a9a1210f2c68b939e46bced090",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c3128cbbc90f60dbe5b8ac6b32b0de77602d457b",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "14"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7b6b7176f8a1e25415546c58ee8b3e68f92957cd",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "13"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "08e27b8af3f8c6af42d4345802ba8cb6e507f4e3",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "19b5a71b8f819238b846289fea8413f50191c7e0",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a9be2acc9d4f72d9974a1f386fdc7088083344ac",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "947e31705706c6b85682e21675d1d7927812bb48",
+  "segment_id" : "1",
+  "bus_count" : "2",
+  "msg_count" : "8",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "046d8338af8ba2d6773067bfc392b2aaf14f9641",
+  "segment_id" : "1",
+  "bus_count" : "2",
+  "msg_count" : "8",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "2034887acbef423b147d79a61fd94a92aaef038e",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7446b47077386d3226e0b12ddffec843a5244255",
+  "segment_id" : "1",
+  "bus_count" : "2",
+  "msg_count" : "12",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "036212236889aac2ad671d6530ad7a703817cee8",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "27d0f38f2c8450b698767139191cea687066b2a1",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "4e14a2d4a028fda1a0f6b95fdefb5c704c6e08c6",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "10",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "50edcd2914268602a928d56a05813c462668dc8b",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c461cb66db8813bb60ab31976402f44f17a3d308",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ec11bb689aa9194cdb1490a265211517f2f85300",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "3",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "401f32e03e267d461517c1216e25c2195cf58469",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "2",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "8a5be15aa1f703f3755985f7e0d60f00427e8276",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e3a9228606429576ca10176a99f21d0d17060538",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "4da271f0a77f0143b1688b90d9afc74e122e6895",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7445b643a55ba075735ecdb5a95f872dc58b5061",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "31"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "aae7597e2def00e8d8b241d04dc83378856f5bd4",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "4cf232c15ab19f087c5b0386bfe02327d807f075",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "707a27456f3b309de6014890b76b5ee577ea998e",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "28"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "737422daecadf090fd40901146053c442a970454",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "010d682a0c1f6f5f477425f1d471adb79e089a7d",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "10e31fe9154008552b66747f7bf4e5f7d3d2183e",
+  "segment_id" : "1",
+  "bus_count" : "2",
+  "msg_count" : "6",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "37c14c04bf7ee25ddde0e7fe7497a46c70e25d8f",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0957717ecf558186e4a7d61462c2ddd012b551f0",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7d647fe4115b0ae9a0c51fac551cd1c9b3ee024f",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e9c657a776dd087475f191b59121b7be36af85e7",
+  "segment_id" : "1",
+  "bus_count" : "2",
+  "msg_count" : "4",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1094f5ef06dbd4477acde8b1bf6ac2cf105b2bd3",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "de10af1ce32515afd9146075eee52a33ffda8b5b",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "91646e20587c0148380bb1de9522a07f5e4b7f61",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "3a63c490a911285504df9f44761c6a912b9add9a",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6b075b5dd931f05e445cb6e8fdedc04d9fb55465",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "29"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7fc1ee0231f27e7d524ccdebd435d5c0be710b1a",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "19344f9d596dd0a02884dd1c7e184b705973eb41",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b757c2dd560c0c3e4cb06eee9399dbc86c18b414",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "28"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "04ea77fa52344d820c9d64c8fd7bc925096d53ee",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "eb78b23bd772dd3d21deeaeddb8ded4d32c4b9ae",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "31"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "4bcdc00afed66b3603ee48810ce34740c8533977",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "fd5027bee7885fbee851a678b87ff5c952f5b3a0",
+  "segment_id" : "1",
+  "bus_count" : "2",
+  "msg_count" : "6",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ba363484ed391b4b0cde2eb5509bf85d9f79a055",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d6cd70765424717e920c662a6de060c52b8ef346",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ed60e8c095e8517330d93c8581c0c95ccb295e11",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f15603e9fcc2ed2618eed5b6e3a3bc50c3163724",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "2",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "111feb249bcb8648ae9472ac722efeb4d4aabfd4",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "60ebf2d9ff7be4c586434d6ff075d9e72b9a62b9",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "daec486f6af7c044d35a08d84747cac91a4b5811",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "438597c45a69b452c41cd94eb822f5ea98574ced",
+  "segment_id" : "1",
+  "bus_count" : "1",
+  "msg_count" : "2",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "3a16f0807c8988ed7e6f7e536e05add4448c7acd",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "2b64139a9e135e99f9729ef2f4eb0d22948b4089",
+  "segment_id" : "1",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "fe66f43fd871bc31f0f9df365c4c5aca913074ab",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "12"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "91a07306d3fad9b9670bde1eeaaead0ddce671d0",
+  "segment_id" : "2",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b0ae96a7d93e8b98c1d4a31b96d639461443224e",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "19",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "257268d39ad939fcddea3e73705cb289ca3ef539",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "51a6f433b2c921ef3bb073735ae9b9345bbe103d",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "31"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "681b16fa20c8443cf238b9ab20d0e02c9288c979",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "00b76d24d8902b8a42db6568d75c83161644edbe",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "7",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "809a67f3115d4ca95436ef6db9b55bda2326ce50",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "28"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "89b283aa5cb5cd533c1c1a209cebdf927fd2078b",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b85ff05bed2d8780a1352b9fba5f50015607577b",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "10",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "044521bc6a72e7f81a7b43dbda6b772663d8addc",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "54a2a6eebbb9c67df88a4a263169bcbbdd7f9851",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b3531d270b157f56cb918674aa9f5bf7bd9b24e0",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "fa32d8f1648711b034856d871621341c088b274b",
+  "segment_id" : "2",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d5acc14813313b7a9466873eeb63d7a62bd2e6ce",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "10",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6b39bc853d08b99c97525449567b752aded61c5e",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "19",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "282ab28660f3021f95b305cfd998cc4e8d9ebb7e",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "7",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "8c0bb2daa4f66d2556175b098fd91c75e6c89557",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "3",
+  "traffic" : "15"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "2a4469723bb383844da371a89497bd7e85a60239",
+  "segment_id" : "2",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a6f190b4145bb7aeadf128442cb94acc8662f973",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5739e485ea799a5df2afc872db6f0868b35d73f0",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "17",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "2112a3a05ee74196d32f0e472c6fb04548cb1e65",
+  "segment_id" : "2",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "453285616717ca4977caac89cec582e785e1c26b",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "13",
+  "traffic" : "14"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5e64f3fb6a5653a403dff27b7713f5c9e401f9fd",
+  "segment_id" : "2",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "649f704f5f5735de2e5192c8ce06aa17c6df67e1",
+  "segment_id" : "2",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "fb894f6fb2df1a605860ac6f0028f25fa9754858",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "21",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "eb3308ee70a82faf0bbfc6774662bec57a44b115",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "13",
+  "traffic" : "14"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "00b19164e1558c5a01679b2bfe8efaf1ab82edb4",
+  "segment_id" : "2",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c5d5748fa70a333337a649d81e00439c2d2ef797",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "fec2aa80db6a1fb2579aae6479dbce99336e8ca1",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "18",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "aff735f3bdc8a8ff60913ce8020b8ae41a2d1673",
+  "segment_id" : "2",
+  "bus_count" : "3",
+  "msg_count" : "22",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "bbb6f1960940f78df580c8c9aca47c12d6c554dc",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5eaa7ccb61ef1cf5cc99756f31ec3e98cd20276a",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "fcaa6e435a0f2b09ff8608a8c8baf236cb89255e",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "aabf4e1bb8c004c813ee98cad45a884f9f5ff774",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "11",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d271859995dfc89e23bfa3f8d1610f96102aae3b",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "6",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5797c57499c2f7fe13af757f4ddb95547d686b28",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "20",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "2e0962b45c28bc088d288f15beda6de28d094c09",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "14",
+  "traffic" : "14"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "cfad30dc8c7459665f12cf1cf3e90ed77b92f701",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "11",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a960c87ba2eb078058497aff8a25a636ce3dc772",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "12",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f794e46e579abe18c1f69ed8002d5442f2766572",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "4501c71e637e9345dfeaede699d980e10916712c",
+  "segment_id" : "2",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e9d36eefbf0592b7a5e1292151a2a9b86bab10f6",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "2",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b8855e0f85828d1e184387800435ef3ad090b324",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "13",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "af3d95a6898a935c2db4c28f3b487fa7b1634519",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "28"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6b0977d242bcead219911e36b3252143f748655d",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "3",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "3ed0196f202f704f255cb099d53446b1b4a02695",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "10",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6ac478b1b436865e52a249e462f79c8c95d93c74",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "10"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0626817922586526e715ea5ab2f916e55d4504c8",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ef44166a86c5a55a1aabaa72ab548f0d615e6c3a",
+  "segment_id" : "2",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "12d52e510178f3d2dcb37444076961a18310eb1d",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "14"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "50b38ff30285a4e7f0267fe95f8b30ebc4572f9a",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "12",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d3421ba18d2b5ba369e0f04b09193da4932031d9",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "40eaa95fa6b27ddde622af93c09a5ae16ee4c98a",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "12",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "48b560b15080da3f78dac006d315548608b211a9",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "8322a4975e97dcb06142e5f3f6f8882ab96e92ec",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "8",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "694597cf2c6282f56977420304eb37aa173ea11c",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "3",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "27e79b5a0ec645c0e62769a166592828c889e0b3",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "11",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "bdd1efba05c485afe38a6625d6423aaa23a99b70",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "10",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "99f901821d0de3adead008f9b71d17a9d164d393",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b09ae96a768a84d5e37951522b03012c58876c9a",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9852c08faabf5aa4198c19642d8c5a0095e0ecac",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "16",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6db151173b9a67c81c91f3176378407532c71230",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b40339d106784bdc40f15438a065f4dab3b9fd1a",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "bc065892a8ca33e764c69636f92f69a13d3c2542",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "14",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b4c42f77df828bbec7e1ca025504e49e689e3001",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c402b0428c27515732b54506a231f2045d4f2041",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9544aabd1091e441c9f3cd4cb7442ab85658a362",
+  "segment_id" : "2",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6597493196ff7e62ed85aadffd784b5b99ca0ceb",
+  "segment_id" : "2",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "2b8218879bbe6a433e647f1cd699fef288e35879",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b31923991180e7dfe193c478410c789b9579ca1c",
+  "segment_id" : "2",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ef7cae33e35600196479202bf749a06dbb045f25",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "207399451fde40507f7e87f67c6a524c478df397",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "12",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "01c92ad12b3fc801387b3dc156e3177878465214",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "19",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5c0b8e2034880c8fe711b1fee0110f114760307f",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "11",
+  "traffic" : "14"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a19a2da98373ea1667a9b721bcf4ae03fa9eabc2",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d6bb9b4b424852d29c5a1266e1db763178e6a532",
+  "segment_id" : "2",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "06811119cfe667433cd4f6283a7037b34159c8bf",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "21",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "92ddcc862ae16d93cfb1b1f39d30d3f205c42073",
+  "segment_id" : "2",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b37d9f1c32b550826e795998631b390544c91734",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "11",
+  "traffic" : "14"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6c96aa3ce277e943e2b9d7b5dd7dc8d914e47ce7",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "11",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9f0785fb1b91f66badd694614a14087addc01a3a",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "12",
+  "traffic" : "12"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "98ac02d4da69914f9d6d904e065cf0ba5306678a",
+  "segment_id" : "2",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "86f3f6d444b34907b325440c01f32c3a34e241fb",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "13",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "cbddc0c6070af74a47690f71645969e3d59d34f5",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "8",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e4a358bc65ee2c06f7dd24a86d3b0317a06d1910",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "3750d374b5df39ecebffbaf7953f059164c1ab2e",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "15"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "be2d4e3806c38162aa4bc96f8b5ab8be92c9fad9",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1083f5c821e904251c64984285c34213cd239d78",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "04a87d9a66e07b80d7f5f78b74d803a8d18caf4e",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "1",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "4a6b176f3318118eeab78bf575ff6b57ac8c2775",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "12",
+  "traffic" : "15"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "2bb2d7875b08f3762eb052678e49b803c0787b85",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "23",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9cb0e39ecf86624cc0d60ab68b260829b7c3ff3a",
+  "segment_id" : "2",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e0030f58a48c862766cacec79fe565abbc3429f4",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "97a2e1455b8e07dadfe6366db954c2635a567837",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "10",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a13fc4f9591a504f653fc895bf274c322324cb1f",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "2ab49e85c32208918276a8eeaf2e8ecb39c5a4cc",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "11",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5c72e86a541ec4311f0c3a8d935f13d7b92bfd66",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6c95300f049fd3ae3ec1371eb1b8def913069cc9",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6d1eec5c5451bbf035f456f0c25aa1d55f0863ea",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "15"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1b6021dc136b1ccb54eb9147dfc7b0ca1ed72542",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "17",
+  "traffic" : "15"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b44d8bda8ab0ae50d769288c8bd22f52a6bb9cf2",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "11",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "cb2210d6e443fe17b96128cd44df21234ed814ac",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "13",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b045a63d6d916e27b404544881b05aa657e3c77d",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "1",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f74c7f7a3ad35baf01ecb47809f5edc0653dd511",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "13",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "85c7b307864d6f2f8e0edabdc06c8a2b8de41eb5",
+  "segment_id" : "2",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "63d4e504042cbcf5c094aed89ad8936b942c7268",
+  "segment_id" : "2",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a10ea1ba6dda73b94984e0159e9c628807b870d0",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "10",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "639ede0cacc69f7e84f1d0f2420c2c0b988b648a",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f7f2d1fefdac885efe0d9390206e8e88af32d9cf",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "11",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "de559af6dee1c6b0576557825afcf15773f8c659",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "36e032e291315f3002df327a0e34bbe83a5dc55a",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "061c69c7ed726e41f2579bea5e5812d5934bf751",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "29e78316e13d232af59a6d52c2e771e83babf5b0",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "11",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "90def4de3fdf260cbbf177f87ba9353fc6e89c23",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "31"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ea53a29817ffed5beea8ef501b407d5613f96db6",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "3",
+  "traffic" : "14"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0404cb6488083dbc57b60b172091a5b71a757dc6",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7ff476097ba82fd6ad6c57c555ee87ef67b35bf9",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "13",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9964ae3cb719bd5b0c71e7ff5068b08784ce3a0f",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1e60eb4addfd42280156aa43fa0d492965c84b8a",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f4f9b9a5f78f2d88dfdc81078f38f5e1d7f1fb5d",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "15",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a3d4df0e2498b2684b1d408ce96b686cf9b09e4e",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5b6fdca3eac1a489c3bcfc79724a8269d756ce8b",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "039b48f03c2b32bffe55a8c37195f7b246399a81",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "1",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "298d802a34135918476ddef8677ad45053c96fba",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "39836bf84589d178370f82dad01685d4a3210dc4",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "19",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "10ed322a29a97fd8f97c33d2a6c5c9755ed5db23",
+  "segment_id" : "2",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "60b712e85467843ba539fa450b4b9fce802d1412",
+  "segment_id" : "2",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c50f556daf0b0ef95e1c0d00e8129345422ccb50",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "14"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6224a539e0f1356711fdf5e5b2a3494783bf317d",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "626ccf0ba257c4c46672e1df32985a3e7753d31d",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "11",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1b27c4aae5e93add65f0caf27b9aa76d3598b0a2",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a8eba3e7132c5b25941baa4861ddcbb63b6f0ec3",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "12",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a31b3078f63bb7500d8dee34057f436b7a67c513",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "20",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "26497c6e6a8262aac4823e8fb93230dc9e6e6c01",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "2",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "db4cb7aec4ec52f054267c155c8016ba29d1436e",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9023a2c0750367714838bfc550d8f11943dfc18e",
+  "segment_id" : "2",
+  "bus_count" : "3",
+  "msg_count" : "12",
+  "traffic" : "28"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e13d29f2f1cf3b805c97200654338aeee6409754",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "10",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5c6ecc6704feafa9f7584f5f2746312aff42211d",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "48e59150b650a924455d65e8057a2596f09e9f5c",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "10",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "576d83fc594f1a9caeeffc03ed955bd4a8e49c80",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "153e7f32f8b875d338486c25260b2fb7deb8b4cf",
+  "segment_id" : "2",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5fbe161f33adde0c5edf1b20208b3b0c1aaa40ff",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "17",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "01e42d7c76a6b7d49e1a1e10142652667658d445",
+  "segment_id" : "2",
+  "bus_count" : "2",
+  "msg_count" : "20",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "bd02d29991b9e789bd33158afb124d2fe5a4c313",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e5af0596d488673b1fb577117f754d7c5a1a7a08",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e3afa62d3a8679fa8814e5dad166ee80ec985c25",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e9c74de44996f6423f122da936bb2cd5752db9b3",
+  "segment_id" : "3",
+  "bus_count" : "2",
+  "msg_count" : "7",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e4c8a4037ba649c521f487ea54272667cf4cdc19",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6de47fb1638fd978f056457e572f1f1bc0572fd1",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "85b4daac4263f880d1d1a8567e60c8b95860bd0f",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f397eb2666f71d01495a285858b6d3c95f6efce3",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "eb984ab293d10014ea0676eca38d467481785f1d",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ee26d6264e174aca805a6d7dc19be6a8ee4a89f3",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "999beadabe0116f94ab0a66178fccc921c5870b9",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "94951a40d21c7bfe577b6486ee2f8d1e8d689549",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5fcde348a08615c9855ed6e20d0cb8b746e2bfa6",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "cdb648a2d890a7424d85d6ba909db84824077957",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "2",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c75d17e767d814659a88ffd63a30384bc1e9bc9c",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e72f97103c51393d55bb442746170edbbbe0b544",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b493085ce9a0ae848c0a30bbcfa555ecad191156",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "86edef0afd9eab4b246a2e4431f0c3962f85ce40",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "60b819c0fb5f447ec2962a29028fe9397cf73fbd",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7e4d70ab3d5e278a19d2e17830aa3d0983b34023",
+  "segment_id" : "3",
+  "bus_count" : "2",
+  "msg_count" : "8",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9a7185a0c386f1166f293187a3817c1f6c5c4232",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "3e0cd9ffcfab933fd1b7744d46bf35190935fbe3",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "272298cd2929ea396c53e7140a0166eae1fd13b1",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f33ae59cd2c1d8985011cc3cb6745435fcd240bb",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ee7dc0d164416590e21d5ba9c2bc717df180e833",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "30"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0df739bbe8c1131665e6201d6b2071482af3f2ed",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "456a0eaae0678107f25263c3debf541c589f2e9a",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ed06201540fcdbb46d1b82185cc32c2e0312c03e",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5be292830bf8dec4523a5144b3fb9cbfd37e4597",
+  "segment_id" : "3",
+  "bus_count" : "2",
+  "msg_count" : "7",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a1325984ae43dde0db25dcedd5a72291edde68cf",
+  "segment_id" : "3",
+  "bus_count" : "3",
+  "msg_count" : "13",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9f6d17be0cbb4634b94d2822e9485caf9a8b77b1",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "4d621d846993134b7b9657c676a18d4669c6bb6a",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "859e5de9fb9cad84bd2fcd90cc0647a41ae3930a",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d2c2320594917bc54c664fb6ca728f0d703946ce",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9cebfd4e2fd9612f939b3c887e96f69e12c91d78",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "2",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d65df5e08f8efd07dd53ce2b0384683e88ac7ae3",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "2964555e10ee37d45f7af61f0e36a4f005bb2558",
+  "segment_id" : "3",
+  "bus_count" : "2",
+  "msg_count" : "8",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "8d3ca0768af718bc44b2489bfeaf1a0bf70a0424",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "cc9b71b128c4a14e9fff30768572f171ade3c7a5",
+  "segment_id" : "3",
+  "bus_count" : "2",
+  "msg_count" : "10",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "147d3df801ecab605983aca59a26346add5662fd",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9cf053a82d1e77a6191490e800df01824dead99d",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "32f9e3cea920942647186493958a0ba4fe81b21b",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "2",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "3848641be797274056daa54ffa964b2713030ffb",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "82bf36cded1abba80e58a84235100212f2cbd556",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "19e64905de78d2b81f76ec9f75283ffae344a5bb",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "60213ea06fb1685f7c0cb491e853d2a6f988c21e",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6debd0dff499f5578cf4648055efe320492c72b5",
+  "segment_id" : "3",
+  "bus_count" : "2",
+  "msg_count" : "10",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "046b2a58ac1972c4abece34f4222933a6b7269e7",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ea8397f21032b0cf0bae522cb6773ab40f40877d",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b391209dba7268685b07f8786d20ae909db1bce2",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6357112994fc8459d21f831b181b352b6d2da5a2",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "3",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1c00c2e55748c37823a31b07264e790d8c48d0d7",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "878411c84bb77365bc9f5e61d6de465fff41153c",
+  "segment_id" : "3",
+  "bus_count" : "2",
+  "msg_count" : "11",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7f209313649de42a0123616786521bec785315cd",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "12724e0dd7e65998ea160d97f4c9c349f37a0d81",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "441f0f8e47d56a2a4ec256aaba418fa17ad42f59",
+  "segment_id" : "3",
+  "bus_count" : "2",
+  "msg_count" : "11",
+  "traffic" : "29"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ca324edbfa1fc5d8ab2b14e03b0c6080c1d94197",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "dc53971e987f2f54c7a980bc72c38a918317590d",
+  "segment_id" : "3",
+  "bus_count" : "2",
+  "msg_count" : "7",
+  "traffic" : "29"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "4841296982d45fdc20760dce14ae439bc7941005",
+  "segment_id" : "3",
+  "bus_count" : "2",
+  "msg_count" : "9",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f79f16b7509470873f781f21dead982c2a0f0afb",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "937982f3bdd9af89c4b9773b90be36d83129925d",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c60ba36e037e7b6845a8b01683ed58233172bdd3",
+  "segment_id" : "3",
+  "bus_count" : "2",
+  "msg_count" : "6",
+  "traffic" : "30"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "3baa473b9989b11958e982ceb585decab4d31034",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "90ca00de1cc331fef9e332e48a81330d77b6fd5b",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7ac1c12f1ec7c0985d686012556428fdb477a440",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ae36645c83dda987722a0c6f1c5cb1ea0b5b99af",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "33"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a4054733356692ac2643aa84e49d729080140584",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7bd3fc91bc420061b82b9a62cb6cf90ad929bb50",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b7f45cec596d1893d9fc42c7653d9d9e1122f776",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "8fb89ac3e6f0bd6ad39990a13ec44e173d6141e6",
+  "segment_id" : "3",
+  "bus_count" : "3",
+  "msg_count" : "11",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "50e78b0ab6188c30faaecdc9ef6e96601c80ac88",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "31"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "3f822383c5b9991530149250964cf1e3b4d50646",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e89c8f5927594e055307b9ad16c863597f118a45",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "605a5fab836ea9314a28beac269c8ffe2a5ee22a",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "1",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7ac25b3233e810cfc0b15e0f14f1c96ed7527c7b",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "31"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b6e7f01960eaf969e57df0bf3d0f4d8a98913091",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "275b7a2f587a8de67163ab5fae2e7bbf188d417a",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "49188c3dd02544ff2bb1343cd47c39d48cfb1886",
+  "segment_id" : "3",
+  "bus_count" : "2",
+  "msg_count" : "6",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "26da17b5a6be550ba1a00e76e6400caedf9c91d9",
+  "segment_id" : "3",
+  "bus_count" : "2",
+  "msg_count" : "6",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "49702a1952b4c09de45aba0d15d11194d5270f4f",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ced652a5215d676a5013c68313f981b912f8c6c0",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "3",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5bfbf81b843b1428a69f7d3df02e3c4ee8dfd7e6",
+  "segment_id" : "3",
+  "bus_count" : "2",
+  "msg_count" : "13",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "12d34f1446128163433866d2b280d9e96aca6dbe",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "cde7206d2be53baee3bf3f0fef20baa89003c603",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b4f652d238600bc7e92a5b2002bcd56cf625c157",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "954fb8ce222e96fdc72120a1158f21e70c9355e1",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "2f3ee0b39c83321ec1dda6bbaab098aaf80ac85a",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "28"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "763902eef502630240c6045ba5c6721d3fd8884b",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "3",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "380ef1c47bf0ded46dc3b762cf58af2badaf520b",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7cd82e66531f4a6502cdf84da12e7f5245b8c0a7",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "306be8f94f19dbd2a06b8ca2c3d77951cc3fb6d7",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "8c2f78fecb0a1bba96429f8dc89789bcd82f2fb6",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f9f0f37ca9ef48d5b18dadc7ed25cf8f4b417168",
+  "segment_id" : "3",
+  "bus_count" : "2",
+  "msg_count" : "3",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "4bca07ae654069b7cb6f9f1e9294d44be6df01e7",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "47b2dda1e814d0e17b83d63852673f6e1f6ad8bf",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "81ccb43716f217a25fe51dfb019975e2d0f1469f",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9bab092a30d7a844dd3d9a38031eb588ce274ba6",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a019875ad548892103ad35ea8160ef776e0d2647",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "58caabf464be40e066c08ce12c64839c1536b9db",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9a757b491dfd7ef061080bee6f0381f27e67f8b9",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "10db56a3917e244ee857dc18be2c2220d549cbaa",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b23a964374c0aa19e3e8eb3881290b91ff925128",
+  "segment_id" : "3",
+  "bus_count" : "2",
+  "msg_count" : "6",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c9c781fe47c0f76f72390aa111945ada40b98044",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "26c2aaf4fecdb7de7623a2c183e004578d3b032e",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d8fba5c90b560bfb275a5b291d14ebba6d5612cb",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c5ae50d4b0f14144ea0838f0a77075b605b1bd61",
+  "segment_id" : "3",
+  "bus_count" : "2",
+  "msg_count" : "10",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "922d2abf2dde0f109039676ac3553a5ac4655f06",
+  "segment_id" : "3",
+  "bus_count" : "2",
+  "msg_count" : "13",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "8618d3326d7c5d72a9dd67e85e62c7b27f84d46a",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d1be98a294e08cc3116bc6bd340bffbe7cbc8dbc",
+  "segment_id" : "3",
+  "bus_count" : "3",
+  "msg_count" : "13",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "715b74ecd63630c335945853fc3314a116edbb89",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b2acda21f24dfc996903ee782ee0921d1d5adcc0",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1f38d14b8a9b68f6835e89afecffbbd02d7be074",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "945dee7d16201fa0cf1d1ef2f9444e3eba36590c",
+  "segment_id" : "3",
+  "bus_count" : "2",
+  "msg_count" : "9",
+  "traffic" : "28"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "060c3d3a88df8acab2acba09234fd5ca266cbaba",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "857013f39a7160776929010b1e864a39292a510a",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "249f1434fdb7a0adb76ba1261bafb904f6d1c47a",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "786c2c06e2851b04a9cd9797b1cf538143fe02c3",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "95f251245e77450f71fdbf012df0615bd6ad8cbc",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d2233b86b8a18bb18d31b00429f45d8c450e2861",
+  "segment_id" : "3",
+  "bus_count" : "2",
+  "msg_count" : "12",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d3acb8900001cee73a56b2a0ed3ebbcb4b40724f",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "58256b805c149d87c95463feabfcb5e9de02208b",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "33"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f859a0cb11ab1ce9c89ab7f6941c289268b9fc73",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "975f6ca6fa83a1f907a757b9d84462a84357414c",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "29"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b322a8f2a885f8152ca905769fd14d03ff5149e2",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "87834cea35601d4757a7fb9bede511f1e15b49ad",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d9b4de3e824c5ab0e93866034e81d1d6d500da4a",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9cfeccd4439e8a126f74116bd6fcf151ecf9fc39",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ec0a5326931f6a1becddf77e2b7c03e3855fe3ff",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "78d969f78f87db7cae6b5eec4a54befc53f5acda",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0279d19a07e9ea52c07a97664ac784a17950215a",
+  "segment_id" : "3",
+  "bus_count" : "2",
+  "msg_count" : "13",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "2c0aeb85db04415f59fad1b3709767e6f1fd7929",
+  "segment_id" : "3",
+  "bus_count" : "2",
+  "msg_count" : "13",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f7fa1229f095ca7f9e6ea8c4bded00ed93fa8056",
+  "segment_id" : "3",
+  "bus_count" : "2",
+  "msg_count" : "9",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "30d4d296745520ba20d3bb8843edded219c1eecc",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "4e7b2753f6dc86e3155b2c6f70517c400bce1076",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "83e3f97be5c99fc62e79fe2f96c29dd4e0886160",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7537809b60e2984d16b8d9cd63eb7942b72ef801",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "2afe95da614fa771157efe833fc6627249321462",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "63c7bab2d042fcbe96eda0762a999281e069e120",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "3",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "afe01b046f98855442a5c46190595c9aa415bf38",
+  "segment_id" : "3",
+  "bus_count" : "2",
+  "msg_count" : "12",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a08687d38407e26f3573b5716a5dce6ab408f95f",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "abe4ec2b310be1b641b35f8ea87d9218681bd498",
+  "segment_id" : "3",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ea3234ccebfe78ac07b77902c709d82a540d4c29",
+  "segment_id" : "3",
+  "bus_count" : "2",
+  "msg_count" : "9",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d8832b57001f615887afa1890934aa10bb9e8750",
+  "segment_id" : "3",
+  "bus_count" : "2",
+  "msg_count" : "9",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c1663953e08a819762dd974ea586a3997a3eb63d",
+  "segment_id" : "3",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e4770c99c1f15e0ee13f3d8e77035be19331a225",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "2",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "59f8c53ce3638268daad487d4db36f27f66ff60e",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9a48d7511964ce35dc054fa87ecb78ac8e7185ba",
+  "segment_id" : "4",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "db52fa9d989b49db73b2e82a98031b7001c6a9ca",
+  "segment_id" : "4",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6365b5d0da4bff6d2917065171c80825e774a185",
+  "segment_id" : "4",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f41daed022fb55c13bea342edc6dac047cc543a3",
+  "segment_id" : "4",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "76b402bc6401f320b7811f778b20dd457d7707d3",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "10",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e25258841fc666e16865f8d1f27a46acbd41ac83",
+  "segment_id" : "4",
+  "bus_count" : "2",
+  "msg_count" : "10",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0870387511f6b006d864ec9fc9bb616f54f66910",
+  "segment_id" : "4",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e3935a67e35d58e40512a3b2ef4a0afc06260f8c",
+  "segment_id" : "4",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6974f33515f6d46b5bdfc05b1a889e87a242488f",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "8828464df0a1c8cfeec065b54de2101bee8008ec",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7c7ee1f535dfd97e7f89daf19ce46a172db2391c",
+  "segment_id" : "4",
+  "bus_count" : "2",
+  "msg_count" : "9",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ceee931c0fbe413522046a6b29fe3cdc987ebac4",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9fd8089e5cf5092fbc529027bfcfd45f770787ef",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "3fb58423549ab1fc9516c586f14233f003f6a194",
+  "segment_id" : "4",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "26ffc174bd55878661bc99c0596baf43d775c03d",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "09e71e27d042494cd1f72b8ec136349cad222ec5",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "3",
+  "traffic" : "12"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "bad11cd613ac9d77211fec9902024c1fd336b1de",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ff1d49ba2a720f87600b43fbd69fd0940e927aba",
+  "segment_id" : "4",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "59381c4b32d4bcda1c50ad0523f747da87c1a1e9",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "be85eb411a38c029cfa504afc5932f8e8f78dba8",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0a05e22b2c5a51f3b084847cd32e5c14a97b037d",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d9d0b7e5d1e6062f57180ca5eef940fd9e6c1bff",
+  "segment_id" : "4",
+  "bus_count" : "2",
+  "msg_count" : "10",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c63c7be8cc5fa43f7fc0da0fc45dda855f5fd175",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "efb8e69aa0016e6d712958f5e63f858552a869f9",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "8a335c99c4da4a167339d216a87edc9f530c458e",
+  "segment_id" : "4",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "30272b0c03f4f368da4ada18ce8b34723a044dce",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "10",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "260f03f299b56398ff420f9b472fdc2b7fb8bb4b",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "13353069cc9a058b966ef1b3a29b240149d97bc2",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "2",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "26c7b4f3390101af19774f07fbcda3a8c1a08ad8",
+  "segment_id" : "4",
+  "bus_count" : "2",
+  "msg_count" : "16",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c288348683a6aa22600d96fa9a69b7333e9c4c2b",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "2",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f8173f55a1fa7a248f02b17b3c3b27ca66d7fb23",
+  "segment_id" : "4",
+  "bus_count" : "2",
+  "msg_count" : "8",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e563c1d3dc257c6e041e17c9226d6267d6ed3746",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "3",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e58490acc2302635357759e6f3a772fce2bba950",
+  "segment_id" : "4",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f89e4ee0c8afbfec36d5107b7869e9afdad4377b",
+  "segment_id" : "4",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "11e75f0865ce836e6159514337e3f18ce92c6f7e",
+  "segment_id" : "4",
+  "bus_count" : "2",
+  "msg_count" : "7",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "fd8c0816322a5905492fda439511f3023f903a57",
+  "segment_id" : "4",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d1b3c2d12b0cc3c078dd7e4782d6bbb441060d83",
+  "segment_id" : "4",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ea0b660d0e90795b0fabd79fa913aed9e2325f4b",
+  "segment_id" : "4",
+  "bus_count" : "2",
+  "msg_count" : "8",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "2abe3bd6944413a030c4b905db3e0d72ea21ea26",
+  "segment_id" : "4",
+  "bus_count" : "2",
+  "msg_count" : "11",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7c215a7c706c3e649e2537194914fc7ff464766e",
+  "segment_id" : "4",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "94d28977ea6394a4c33397d85cbe69e7f2249ee9",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "690a8e5a87874589d56bdb4115d41356822601d6",
+  "segment_id" : "4",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f5c8b58765b32cf26e736ce5c6f9f4af710f4fa9",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "13"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e2a055acf059740899cc3801df2fc6ec1ce05d77",
+  "segment_id" : "4",
+  "bus_count" : "2",
+  "msg_count" : "25",
+  "traffic" : "14"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c7c2e8d5c079ff038da77f69b7e79da719d9d354",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "12",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "fda9fa504051fc3179e87d1255d521a2267a5d16",
+  "segment_id" : "4",
+  "bus_count" : "3",
+  "msg_count" : "19",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "fd1a5b17ee59156830cb0c66891d8639a134b663",
+  "segment_id" : "4",
+  "bus_count" : "2",
+  "msg_count" : "11",
+  "traffic" : "15"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "cb3d0a731e9de0e140f602944dbf35d6c23e55ec",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5eebc065b5b6c5243f252d8f414f6cf17d1d1f54",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "13c6cb77b5776f48211222f7fe23220cc098d4bb",
+  "segment_id" : "4",
+  "bus_count" : "2",
+  "msg_count" : "21",
+  "traffic" : "14"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "191d53317c0b2c2f07de52d87b4c16393a4e0d14",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "bd49df5b112f079e31e7f6a9117109409803791f",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c4f43d966035be76e04e7748586fe85d28754cd4",
+  "segment_id" : "4",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "90845769f1e05fd2d5e1b8e373b3ba3a322bbf88",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "17570945604fbae48bf4b4be38f23271af6b47b0",
+  "segment_id" : "4",
+  "bus_count" : "2",
+  "msg_count" : "18",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "96279209d40c4f0db3849814373dc28109eaaf32",
+  "segment_id" : "4",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "8209caaaedec6ff7f7df6986ee1e1fe2f86e7f1c",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "98d7e89dc2a12abbed512320d17ad24709b04fdc",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5aac9840b7a96c1155b163bf8b9cadba743c8fc9",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "11",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "127791439c517748a7c3cbc0d60336c6a3d96461",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "fbfac0c0ad2e6b2cc8d8652183911616d7e727f6",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "10",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "687bd8fb30f6e84cbc866bd581836181d69e63c3",
+  "segment_id" : "4",
+  "bus_count" : "2",
+  "msg_count" : "13",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6e4c551aaeceee565482974c1f6d308938c399d1",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "11",
+  "traffic" : "15"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f78ab7706a3e75fce0ea867c9c10781167d563c2",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b7828632805689057ebe7af7a5df92d8ab9d12d2",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "11",
+  "traffic" : "13"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "73133c0ede7edbad9af1e70fd51f6f49e7f8ca81",
+  "segment_id" : "4",
+  "bus_count" : "2",
+  "msg_count" : "2",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "603bae1e934540c530136f62890dde7725622431",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "40024cdcefeaa8181a61bbb0e954b0461536ca7b",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "29"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "8f90b04815fe0d33aaab0a37e25883f3c72ec24b",
+  "segment_id" : "4",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ed8f3d3e4922e46424f2c1733910f99c1600ac49",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c319e03b5e94581d33f3c71f8a24348cc3b90ae7",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "587008cdc212cf8c7de1727158cfa061a05aec40",
+  "segment_id" : "4",
+  "bus_count" : "2",
+  "msg_count" : "12",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "435b6d150a7302f44aeff0ddb9a75dd88223b53d",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5588fa500bba492fdeda0085cccc284b2abb8677",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "60e793ea19fab045ce265ec9939dd4f0b7751ebf",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "588c50f8c576a20779284c26b9a63054cb5a4894",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "17d7c340f556676a1850ac0642893c2d4837a721",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ba9b750afa64302f12a43912f676a0ea6712d58e",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "11",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "cafe0320594267db369d0a20496972b90344f124",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "1",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "366e21aec586102d9f5d0cc6bf38a3bfa81aff6b",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6a250a2a9145ae7a1fbef4795406e0ec445d387d",
+  "segment_id" : "4",
+  "bus_count" : "2",
+  "msg_count" : "16",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f7155ab04e71350e9ed892ed714c67f889cc2d00",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "12",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d491856c91bc9c43e0f6f460492f579b39003559",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c7ab8c77dd4780511a5c5b32a14b360f97a3de68",
+  "segment_id" : "4",
+  "bus_count" : "3",
+  "msg_count" : "15",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0e46aaa81201dfd6130dd42c24b086aefb03bfd7",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "28"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6a716e3948c18013a2df15380e00a36be131f619",
+  "segment_id" : "4",
+  "bus_count" : "3",
+  "msg_count" : "13",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "26e574976abf15406be6c56431b5027c9bfbae4e",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "847f7b70c406bb07d410ae60ef757f0213747ea2",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1476d94919e7bfcd57746a118e8f0d1a10ccabd3",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "4ca79186b7cec2e3741aa583ed135c5dcc845c53",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "bc69397f9d21af0b14b5abb5339f5f781cf62053",
+  "segment_id" : "4",
+  "bus_count" : "3",
+  "msg_count" : "12",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "995e8ee5670ef8d0f99efc62068cb2b6edc432dc",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7a863a319c2eeb18d720e13247686178396180c8",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "fd560d8d07931aa451ea5cc46e30550bfefe2758",
+  "segment_id" : "4",
+  "bus_count" : "2",
+  "msg_count" : "11",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a2908e681e1167a45ddc7eb6f8b3bd32580189c2",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "11",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "bdd41ec28efedfa5293f6a56e5d10c053bbd4500",
+  "segment_id" : "4",
+  "bus_count" : "2",
+  "msg_count" : "11",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "8fd375c3ab7c184b6ac66eb4ac74d58d5a0a3d08",
+  "segment_id" : "4",
+  "bus_count" : "2",
+  "msg_count" : "8",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a988aee25e960ab7cf444c59250fe35c3304182a",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "10",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5e6b2da27202bf649cc90a6d2721ca40bc3364ad",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "29"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9db0f65bbca5d22f75242bb3a2ce43d8c7b6022c",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "10",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "362cbca5bd4d6cffeda0f911c7ac15029ae811f1",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "58142fd1e3db3a9337812a1a39610ceed63c4272",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "10",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "74a498749f84432219cbc79eeaa03931dcb9a2f6",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "8f1ba6d474c0d36b12440fe54e3c0f6947ad942d",
+  "segment_id" : "4",
+  "bus_count" : "3",
+  "msg_count" : "17",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d344e1d0c246942f1d1399d5f36f5a52d5fc7e66",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "af0f19bf50411857aa26248f2f73b3927ec1d96b",
+  "segment_id" : "4",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "fba012077672651a64b0d67906cd8bdde8b74016",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "52467e33afbc43d2b6cca57c3338b7ee38374760",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9d823f8ff203d94eff47f654b40374c9ef021bc0",
+  "segment_id" : "4",
+  "bus_count" : "2",
+  "msg_count" : "11",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "103d148714c34da89438097007a38aa10b36774b",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "29"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f1556216c9e3f3a4172efbcaf23d47848247368b",
+  "segment_id" : "4",
+  "bus_count" : "2",
+  "msg_count" : "15",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "66f164585c6472c28e6fd97136f91da6e2cbcd22",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1c576fb07ac0470cfde176e99191af9922d3225d",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "31"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e7607615064e15a5faf30e33385451b43c4c0630",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "12",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "3acc537be4b90e63b9607d463bcf101145ed54a2",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7e528feef8ed0599d77e2087b32f0c2cf58ae08f",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a82510cba212bcd0f315dd8a0dccbb53c17dbfad",
+  "segment_id" : "4",
+  "bus_count" : "3",
+  "msg_count" : "24",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "fee5241f40d284685e24445817f575a4242ccedb",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "935cf2ace3b7d3c328fb0538993c3795e989fdd2",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "10",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "736303513cd162a9c3dc50d93a59bcea63ef3b76",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "15"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "90956df3dd706006b99d3ec959f04fa7a6be9c20",
+  "segment_id" : "4",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "8621117e7afa0f7dfd03fcd7d921bf0e0336d29f",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "11"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "09e47601f8cbada433ea0a7cc1a00ead88ca757b",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7dc90f37560d82099e12d343e449a85d8a0fb9ba",
+  "segment_id" : "4",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "22d4ea5352844ec0f9613f1af4333939792a347c",
+  "segment_id" : "4",
+  "bus_count" : "2",
+  "msg_count" : "7",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "8d81a830cba45e5c37c1ed8ee58ccc2bf46429e7",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "26ec89b98ba2da500236e0b157b40e04cc9cbc41",
+  "segment_id" : "4",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "65407cdfe24cc5e7e69f72fd09771020598b048f",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "31"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7135dcc21f2fa4c157567d6c6f7725b9dcfaf47e",
+  "segment_id" : "4",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "05ebd9c2946a31b6510cebe9ec60b0076a32f51c",
+  "segment_id" : "4",
+  "bus_count" : "2",
+  "msg_count" : "10",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ecee6653fae2c7b288f5fa844858f88b4f1d221b",
+  "segment_id" : "4",
+  "bus_count" : "2",
+  "msg_count" : "11",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a37d010c2ca7d4a0e00fe351121e380790ea9bcd",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "41b3259db0a86476ae50ddf1a36e07980d11798a",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7b0533a2203ea80d83cb0ad012a2bf036e576a6b",
+  "segment_id" : "4",
+  "bus_count" : "2",
+  "msg_count" : "11",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5048b9be2e43d8d4feb1937861964089cbf3554d",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1abd255bc60aa28f700926da0dea1c73698d3cb8",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "33"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "fd70cdfcc0d7db3150c77da69583c5ff317af9f9",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "3",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f020b32ba0e07c6b46db7e26db0e82541e21bc68",
+  "segment_id" : "4",
+  "bus_count" : "2",
+  "msg_count" : "13",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "8a354b24b9b7d2ac849cf771beaca6589a423ba4",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "76a9541ec42504317388566db41bc361a89b6043",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1e5fdee142038586cde36a4e5fd6f9dc4c0aef92",
+  "segment_id" : "4",
+  "bus_count" : "1",
+  "msg_count" : "2",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d3fae4c536296d26a8d216a81b01a79e008bac4c",
+  "segment_id" : "4",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b7055d603aae464a8ae2742aee36fd7ee01ec200",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "29"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7d435b8b6236c7a7fb7c81c146255b1c9462055d",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ad3d680a7138c466d52f504e5065568a56eb2b74",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "35"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "54e1ec9e02e5fe2bdf58721b3a01205abe7b4ff3",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "30"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "87d8a4efb7177c94271b50498b3bb006c3e89248",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5c5da793b5bd122a71819b79298c7fa819c024d6",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "28cda811ef75dd6b0521b7d12ff4cafbff07a207",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "8bcd8e2ba4975d4946570397c45c19f7ad5dff7f",
+  "segment_id" : "5",
+  "bus_count" : "2",
+  "msg_count" : "13",
+  "traffic" : "32"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7d1065251eebdfede22010c3e19a644d8f6c9125",
+  "segment_id" : "5",
+  "bus_count" : "2",
+  "msg_count" : "10",
+  "traffic" : "31"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1767b8e3fc7568da8ef4a46bf81646e1476dad2c",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "35f077b18b3e93d43eaa06c6c292314408f4827d",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "38"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ec6131d49d1e47af5d39b5bbb7fe85bd959da9b7",
+  "segment_id" : "5",
+  "bus_count" : "2",
+  "msg_count" : "8",
+  "traffic" : "28"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5fa8e9676f88024f1f81679306793864b3875840",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "3cc583e758af48027456e6443c07b38e04f113b1",
+  "segment_id" : "5",
+  "bus_count" : "2",
+  "msg_count" : "7",
+  "traffic" : "34"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a75952cf15b18d16f650b8fb2e9e34738f3f634f",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "30"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9cb43e0ec67ab361dd4b5be35c1464c8a31b7635",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "1",
+  "traffic" : "30"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "bb234cccd7239f4cd4101c02542ef823908f1591",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d5997187c1a7547fe47bf9ca00b31193c9bbb099",
+  "segment_id" : "5",
+  "bus_count" : "2",
+  "msg_count" : "8",
+  "traffic" : "34"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "df087f8e8edea04be0a015a6e5f5d2b7f31ffef2",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e180ed8fc80b364e724ab5464bab985f88c68f06",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0d4c768a50063349f23ce90752528ba2614ba08c",
+  "segment_id" : "5",
+  "bus_count" : "3",
+  "msg_count" : "18",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a4f46c8674912cf276d83c9e6d82e90f701f6263",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1b5c2177ff60865ca62dbb88c1c33aec324d03a6",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "587542ad09b1fe9ae2db86b4aedc85758959e8cb",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "11669495a86dc7e1b3a5f42c2eaa47c0bd7e2aff",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "28"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7f1d3719fc2c6a9f3bd1eebe61b4541a7927d212",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9650803ef35aa330aa02ac8c91a815deb9893e82",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "8bc5eb621e32a6380527347fb4a9d25beb04a0ff",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "2",
+  "traffic" : "30"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "852b1fe6d6f9f27fe7cb7580f55c220d477381d8",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "2",
+  "traffic" : "30"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "01c25b21cdc081b0b42c715f697cb64f4b77a981",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "17a64af5807ab2804c00b05e5f481c73da5fb993",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6f9c3f6219425c69289070c3303ccf928e57c126",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "28"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b8597bb68653fb2b830ede1966c6ff817dfc95b2",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d14aa172e38727e1f60132226a28fc72cbab89b1",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1deedaeb4e35aae07f23db7c0eda61d2fa35fd34",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0867189c22ce81a6566e600cff1c0f1b5f8ca0df",
+  "segment_id" : "5",
+  "bus_count" : "2",
+  "msg_count" : "9",
+  "traffic" : "37"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "57f8d90e744c0f8ffb7bf13e3782c658e5cfad1f",
+  "segment_id" : "5",
+  "bus_count" : "2",
+  "msg_count" : "15",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "fe8903730eceb2a8edae3835d411aee78cd10dca",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "04bc87c066b3058792494029b7570a6d21c2efcd",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "4030f5b35c06d6152e2488cad7dea6a9d154f2db",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "10",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ff50b936b026fcf9ff6e6c1878b1213929d713a7",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e7caaf4fcba0d22275339babd9a5d1fa78e4a120",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "11",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e6f2d65d6909ab43e48617b580fc786e49bd9d0d",
+  "segment_id" : "5",
+  "bus_count" : "2",
+  "msg_count" : "10",
+  "traffic" : "29"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "890498116322468cfca3027752373c95fc82bfb7",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f97a334920a836231bacb8d479add3f77758d8e4",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7070130eb5a2831ff77ad45db64998163d4cfb31",
+  "segment_id" : "5",
+  "bus_count" : "2",
+  "msg_count" : "13",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "580c390b78b3fb89e28d55152668d2b31f8cbe37",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "082f8c4e72aa43f83ee14d16c968b53a93fd2b51",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "29"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1a959ba969032d9b45b85623a2590b34e5af1eab",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7ba76d41d1f72ea63d405ad1a59c7c4c9bd70f13",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "29"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "197cb9c305b2405fc870cee3e8d0f80bf01b3596",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e7a50cfe2134b39cb71c95b6c93230266c2c8159",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7bd83a47a718191f1a887752f6684a4790cb77ec",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "91f2bb98f3e9af02eb04e45d46d10109064c4167",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "3",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7926608eb55faaee2a3d06603ac465b3eaa36a52",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "30"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "eb7e2392d1f178633dd219aca848792036f993ab",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5934671518603b3b39d9a01f9ddd4550700dde8a",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "12",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d54f2da4e2e54f54dbf6a31697ac69b994240f9a",
+  "segment_id" : "5",
+  "bus_count" : "2",
+  "msg_count" : "13",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "948357cb78660a2d092afa8eedb869bed93053f1",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0caa4774d66ff8ac33e34c94b6b05eb7fb19fcfe",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "720accd0f15708ab5a2faca3d27c3937ee944180",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c0d20cd7dd5f299d8264b0ffffc8b2952be47244",
+  "segment_id" : "5",
+  "bus_count" : "2",
+  "msg_count" : "17",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "77baf9cd0f1c51318579ef14319b190ee908b5c5",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7eb0f0c0292b9909b5e53a7cb31417d6c74bf639",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0ef30f0aef31ef9b6837e7ca42d3fa0caee5d610",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "10",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e1fd6ea746557e8e7dee27b4c8572f90757a2117",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "38"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "dbc6a6313753e0de015cb7bed7e49ca451b2b5c0",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "74d6c5b18118845203c35f7d9148adb874381310",
+  "segment_id" : "5",
+  "bus_count" : "2",
+  "msg_count" : "9",
+  "traffic" : "31"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ac93f02d6a74719fc6b2629b3f59dad432d0cbb4",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "33"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "da3f057b0eec5a6472a96823a7bf6dda52bbe5d7",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "3",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "74d8c05f0aa21db0c10783d250a2915f09de5c34",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c36c9ceaffec7f9f53a23bab4b3ba86949aa7a73",
+  "segment_id" : "5",
+  "bus_count" : "2",
+  "msg_count" : "7",
+  "traffic" : "28"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "fb37d1708b8f3cbfbecc22e7ed6ef0cc25672f31",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0f23de81b7b3a443d248fb5e88b9fd3fc067c426",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "29"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "2c1f297833c4a6ab8325ade15050e71793e29812",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d8967393007ae8ff3d5a4bc5738b63ebb733c7dd",
+  "segment_id" : "5",
+  "bus_count" : "3",
+  "msg_count" : "19",
+  "traffic" : "31"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "56fa71e9857cb5121c96b7566de677956ff0ab7a",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c063fa42181df97c62ea18fc023aed5bf36cdd8f",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1336d3f7b764adaab39439e35bd45c6c049984a0",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "29"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "8c6f753819ee9db249236d350318e64ed137348d",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f83c90645c94566b3ec5134654c7875335382c12",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "11",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6f506eb8da4ad88b9b433249bef0316bcdb4454a",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "2433e13f11ad0dc6d27e3110e0d18bc4c621618d",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5e248df2cad5ab997e64dbcc9de7b408ea9ba3ea",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e3f74c15d5b250ba5b4c0c90dac0777a89b0779c",
+  "segment_id" : "5",
+  "bus_count" : "2",
+  "msg_count" : "10",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "dcb482cdd567f69e312a14e2f9f75316e5e4c663",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1b7695b4321e185662f0d0a6b999ed18d9f8ce0b",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "3",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1def23841788df2076b69128d95cc79d57a999bd",
+  "segment_id" : "5",
+  "bus_count" : "2",
+  "msg_count" : "9",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ef6834f591c217a9e52a46d998b71533ff7131ca",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "dcd6eb4087942d23dd5cccab588b719660bf58f7",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a1cc48b74fb7f2f9f8fe088a9884eec9c59ba297",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "26e1a145cf21bf4c1f68bd9d0cf133f6d4dd61db",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "33959426ff4415122bdaf1ad819b3391d5e81d9a",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5831477e88aff765fbf6dde00d0d6accc0577d9a",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ab7e5149ee8d9d5340854116b3d53ad5c32d2756",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "3",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "2426c2c7d7339b76f36e891a4de90efca7576df5",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "fd35b9f9f45ae0e067aeb5000c197a9564468982",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "33"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a5b043b2d1315122a35835756247e84c29eedc86",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "29"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "bc6dba103a6b0a18ddd893f2892103d225d2408c",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7b0bda7edf119efd9d9f61165abf540608f595bf",
+  "segment_id" : "5",
+  "bus_count" : "2",
+  "msg_count" : "9",
+  "traffic" : "30"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "71e6aa33d86fda214e8ce0869db6ab0faf8bc96b",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "fc5fe3987e6b55633c2708e4694889f42a4bebac",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e3fda59f04ad3dbf9df7dc687cf284f522f2dd39",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "95b7b93671cf16dd749283158d7aca558f7e81ec",
+  "segment_id" : "5",
+  "bus_count" : "2",
+  "msg_count" : "5",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7af402d4a2778e657420925dc219088e75153dbb",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "886cec00024d6dd789bdf905d047fec31d4dbcb3",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "2",
+  "traffic" : "30"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e88458814fa3b727e189192387b736e0ef09ba59",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c5698c01a8a081c4709fc46e307702bb7b7cc419",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c8688e11223b242e035f4ac46338caacb6fcbd60",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f6e19ee346e1f8d7ee0fa46cbffcc2318481145d",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "2",
+  "traffic" : "30"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "01aee709656046053b0ce577bef21880941d4f3d",
+  "segment_id" : "5",
+  "bus_count" : "2",
+  "msg_count" : "16",
+  "traffic" : "28"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "8730767677bba4d951fb7269c3294963ee3cd8c5",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "4ca2c09889e676445486a5faab3c2c5dd24c7cd3",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "820c3aa8238dca2cfe1a5fe9ba1b2454a8039ecc",
+  "segment_id" : "5",
+  "bus_count" : "2",
+  "msg_count" : "14",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "526823b64624ba9b0cdfdab940af6442490ff398",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "cbe43eeabe6efe7307f7fb1761467c26f9c78009",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1691c946ec2e676b0cef586945fa90ba40b1f22b",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "3a7ee28f2254cc5042e6f871e7356dfed3d4548a",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "2ebe3f2c9a2382991b5c91298a8d3f092799c619",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "cd8b09b319efaf80dd2d2abbd45041d57e07352f",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1358fe407db4726d7e910b76dba89bdd155abc02",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "4a54f70b03ac2eec5376ab753f4766d2a2cc8c06",
+  "segment_id" : "5",
+  "bus_count" : "2",
+  "msg_count" : "13",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "977bb1e1212e754f35f8dc0b66a1de14d12efa0e",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "29"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6db7eddea4a03fe4e8b9e4e31b9d20470480e53d",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "14"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "bd069308239d381f9f7e7900b2e8124cdb395547",
+  "segment_id" : "5",
+  "bus_count" : "2",
+  "msg_count" : "9",
+  "traffic" : "29"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5adaf420fe9b615948599344899f1724ccb8bdd9",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "29"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b2bf093607d05d30f88528b92d18fabf0c09a457",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "89c9ec13cf866dd4e4333f045995c8d1c8f8ecb7",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6783f00380d5a6a588c872a7abb3af90992339cf",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "2",
+  "traffic" : "30"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "419c34e269628feb7aa7731b109e865df231b242",
+  "segment_id" : "5",
+  "bus_count" : "2",
+  "msg_count" : "14",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "abb89c0366b2868066023a85f1ef1fdf06aa9573",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "28"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "df39c8317fcd164ec0215015fb63bf8102ee60c3",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "aa03a23a43607a9fd26c4780b9cc3ed3ef406138",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f2f535a49ca67c81613e4f548a98e3e80c25a057",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "12",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "01034bdf4bc8815cb93e777738dc4f8e86d5dfd0",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6ccdbf3ed3254e0e596587e641e610ad7879635b",
+  "segment_id" : "5",
+  "bus_count" : "2",
+  "msg_count" : "12",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "8d355b50475d4f88f5a5e410e2ee5b665d876913",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "907a3bff87e5aff98799d7480694fee042246a85",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1c5648107ce981453a073f6f919d6a45032d6e9f",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "62511da5604aec84d8ea866856ecd42422e61a57",
+  "segment_id" : "5",
+  "bus_count" : "2",
+  "msg_count" : "11",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "97630e6743c0e50298434ea2614ac6c6916ac0d6",
+  "segment_id" : "5",
+  "bus_count" : "1",
+  "msg_count" : "10",
+  "traffic" : "35"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b4e20f94f3fbeeaa81ab126593c68df2494c26ea",
+  "segment_id" : "5",
+  "bus_count" : "3",
+  "msg_count" : "18",
+  "traffic" : "28"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0db5dc1cb9e8408e022f144d2339551167938dc2",
+  "segment_id" : "5",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "03043eb271e5b9c36baf5dc40a851b28d6b0596e",
+  "segment_id" : "5",
+  "bus_count" : "2",
+  "msg_count" : "9",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1425b4fa51d4406eec65f4ba4a785f4573739848",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ab76244f3b22f39bb8e235e880766385a2d915e5",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d1e44bb9b910c311d62f855dc46f0a6135238d89",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "bed128ec80d4637cdf4efe4d0b72ba8f32e2c622",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "14",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7b8ccfeed7a4aa1bfcb40a8f85a731e06da49e43",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "93af1fd71049f57532e13f54ff0a9cd74ec1d3c6",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "49483537dc714f7ba25fdc124aeca6822b81b0e1",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "37d631caa8645b8ded190442e05f67b7a78d3186",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0981564fefc7436852e49d0506c7328261dbf91d",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "21b0a6c872e9c42dee1acc089ee5e63e95924189",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "3",
+  "traffic" : "14"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5fe5408dd4a093f85c7fe0e1f6503688ddcc440e",
+  "segment_id" : "6",
+  "bus_count" : "3",
+  "msg_count" : "14",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5b867dd0cf3daf53d658cf51f05d9855526e0530",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "11",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "87153216e9764a137c4296967503b2acbbfc011b",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "29"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "fda3271ed9d4aa75f5a9b9b11ed445e038787845",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "14",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f614aee24018c6d1b21b45657dee5bb0750eda10",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "412d056d174f530b9919a8810697599e512afbac",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "19519922b7b695f7a4dcde094d5d4db255fb43c3",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ab7ae4f0d8253d5c2821f97605a48f39dcfb172a",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "10",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "80a777a40b9a78773110684f59e41d1fd38eaaf3",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "10",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9d51bcc5629cb94fe22b08fa2561121a471bdd78",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e2271f26b1b422aba6919b6cec62fe5af5911a88",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0fb27790ceb06786f23f3dd332f227e7774ece13",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "32b691cb7e22537498e6f46769bc689ff43718ac",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "14",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1175fb023d4783399093904a743e5d832f45b556",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "1",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "69d827f2d4ed49c9da8f5bc9d908b49d7309a236",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6e48c344754fa219516baf0af604f939c1772d02",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "11",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "502dd17d3d4ee8fecbe5670bbaf668e1416276ea",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "15",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "3aaa53632ec87879953b7ec87255c13bdc5d9b97",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "14",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "15c144ad28d9ceb493df4da1077acab5529156f6",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a3d93ede536b6a3cdb4b342f8e21cad7c4981b32",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "13",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1d88a7aca25bc8d3c69259554169ced1d5a70a4c",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "bbad9bb7521fbea6cbaea4a7a9a028c1d438b658",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "35c1bbe9afe6df66407dc6bf8d0aa6dfe8e9bf0b",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ff842bb674cba35945d6c9007239856a55534c95",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "faa149016cb0af2f7b306c701334a8f3d399e619",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "dbb4f5b12e7cee1c92fde857c806dcbd34f99386",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "2",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6e20b20477988604152d092a1960f39bdffa3d2d",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "28"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "80971abe78d0ce3c88d63f6682098222483a7a3b",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "eaf8d93241f986d72b0d196d7e3028904c2953c8",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "2eb9a10d5f277835801a60cda94a4d86e64205b1",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "3",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7deac0b8aa529e989f595d2a1b3dd7959b292ed6",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "4d06554918f58ca9f851e16931f39f44fefbf525",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "14"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a5a8abc98494de317d19e625d808d7d231c97d79",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ef92250f5dda556f54cfe076f91fa59167e76ae4",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "47dc9304d61d10197857cb937e5dc3bb9342ec27",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "fa80af48e768a82d42c3672cf6c7d8d124d07dec",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "30"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7990cd06f5f1e6149347be5911d0ba1b5dd8b7b3",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1697293d3c0350d189f30490eb0cb5d5dfbce35c",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "4abfec5c35c152605ac063827e82435c120863a9",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "6",
+  "traffic" : "15"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9f13aa6352eac4d713b22a891b0e06b4cb4050e4",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0af8134715e66bdab81d09f52e3e98a4163519d2",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "94deef095b9c0b64ef9f3143e519b5e030b887a7",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "12",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9a81b73b035507c052d5448c3ea21a10f196fdb5",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "29"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7e74724748a1fd6be0dfd5154246de3c8759579c",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0579e8b42025a804cf9a2a8d16914acc2e30b6cc",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "16",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "20cdfd7f662140500c4d2c71c5f2b89447f020ea",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "12"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1fe2a6618b53c70229cd7f04a6976fc489ab9222",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9bf5fae98f22db331b759d6078da57ca49ac53d1",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b34a3d959111a4fd7fcbcd7f5478e883be10c32d",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d35390e1798510ebd5c6f50dcb6f23153a585af8",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "13c84c26c8a7195cdfa5ac63b85e52a073d59506",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "16",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1b0cc7de6af442e339bca69f4f6624a920f51f1b",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "11",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "48dc2593f8c4081690da93000512e17315b650e6",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "4c03aef553aee05ad06e320482135dfa148507b5",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "3d8555087f5aac5bfca7ad3bb2d07ff1e53483e7",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "31"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "62e1eaedcc0974c76a08d461b7d7fdcf41f2fbe0",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e97965a0ed2d19fbe6c12c8b85e3180eb3567b56",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "5",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "2f182c79da7e8e309da0b9920b4a64f400ae4108",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "3",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "352703b3c80e7294fd23b719c92dc8446ea7502f",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "28"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6d81e45bca73841116cca667ba7e50c20383b6e5",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "32a0cca380b36c09d887515ac9de50ed24f6467f",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "14",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a136080ce0ee485452a9ab39627fcd248385490b",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "cbd6dcfd6c536ff4b67f4d3a5e979b33b863ede7",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "10",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "df516f9d116e6e12dace0b3193768ae2eda710b2",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "66a291b22ef7ecb582d1856a85fb828b017e47f3",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "14",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b72cc35ca43249cf9f5bf48db2cbc48fea5cbf39",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ed0f88312f35018a2907c487f79f6e507fb11811",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9678a7151d98484db6823eacb1204ebd9063bcf6",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "01333e85e8d6b0adacb53281d52db9724fc399cc",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c62fca4a75cc1eec6e988057ea3ec2b26e24bb7f",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "964f4505d69407c4ba1982928e7202b48ac305da",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "15"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1a484afdd896a18dbdd7d98303027fc6756329f2",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "fb7a4b85c3e4389a98bf407bee985c0529db5fdc",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "14"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6da5d9c9305d2feb29b3add7b188dd96467dbee0",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6d0c39d621dd601410b79f648b11ecf7ade3008b",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "11",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5ef6bf2a35b39091e91a29730ce51dfcd0ca1d82",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "15",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "87382559efa17c6652d4eeea043d7242be5a35e0",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "9",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0dec5057105181895bb98740fe7552a0b2ea08a9",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "66a684173bb278d56fc6213f2d5a30befe10e433",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ffc905008488f913fbc36236c807913f8b83ce01",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "232e294a5222e1a82d8d647b3bf5c7ca22b55e59",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "14"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "150ee06abdf5237007cf0905f7ae53a83909975c",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "14"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a1d2f1663d66afc8a46ea41cbe1c9aa12cffb7f2",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d3f9633ad053a298e0c8fe6d36ff35f64b89ef30",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "14"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "bc1b3b88cf30812870f17b0153440f0ec2dc492b",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "44fb9dd0a963f9f08ee1a2e06bbf00722583fcfb",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "3b4e44e3d8a218af9f0c902ca7a2ff0022cf1c4a",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c5f2c3f8e2f74fa7c04b3d3002724f434894e407",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6e65159e63d6442e1992733997ce314a8b41f25e",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6b762e07c6702e6ca80bb6d1395668ad48bfa796",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "fefd22132d63167d5147942895e8be8f4794b9e5",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "8",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "775cbeda90cc0d7858a32b287dfc9f60858a4fd9",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "13",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f8febf542fae9b3633e2a4dd1b08ae8779b4feb5",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "2613ee85d1a1b8b470fa67e205963236604b4fae",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "45d994a7c762e821f82ad33e546822111c638957",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "33"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "704dc9b29f544c86456abe4e83e4b35a6c635c22",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c14698d8b5287bc83b6e149e11ca43d3d58fabe3",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "15",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f19aaad4d31bec25bc5f7119f8d3d97d8a1b8f57",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "06a3fb42bdbde8550c44b602d9310c3cf9cf119d",
+  "segment_id" : "6",
+  "bus_count" : "3",
+  "msg_count" : "21",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "4bb1512976c12c7fe47336428319ec30446c9229",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "9",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5b48ce45a8b74c639e056c2367bfba27251de770",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "aee842fd7e55b56cff352b27b99db1793fbb6c82",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "33"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "06d89243aa67c1f47cd686ed0576a5207f09fae4",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1d3d6c87faaf77fcb490c865a3ad809809da2bf1",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e9ed398bd7a7178256a5ea7b4ce539182e5d326a",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7305bf787ec6543530ae4d8494d3ac2d0b7fed0c",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "74dcf3bf1289dd5fcc1c4ae46c08b2497d344b8a",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "4382054513a1afd7643b137c9a2a05a4955bd5cb",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "11",
+  "traffic" : "15"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ee62b5c90541f0a0f50802c1d3526d7b23b77da6",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "2",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "8ea7c60d2494f34cf14e62fde04be09d4e492d93",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ce36fa2a3ea1affb95944a17ff0ead04c3b9c880",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5a2ec6f19a46d79197c4e7fb01eb27617de5e40e",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "17",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "cce880d503fa6a547b48968f20ef23f8740c1d98",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b40f110cb4a6699461e3ffaa8678253de28e3fcb",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "97279f9cdafa03141f673acb264793d5976508eb",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "9",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "bb942665755a352a8d82af39dc88c23e9aa41526",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "21",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b78d6ad36888d03c6b6f98f2067ae14b3b18ea0b",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "15"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e76e16e131efa5f099849218027790a02ae5d5e3",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "10",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "2edf73ad6fadfdc1c5104ce421de2fb3b1fd161a",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "7",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5853ea4e237b27628b0a22e1c2388d5e6d65617d",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c33f7b6ba1d4b58ded44a7c3afe3f82579717ffa",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "15",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "4ec77e07603d7d00c3e1c255e79c5ee63612f6e3",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "14"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "cb76179e8b20889af8aa7a178caba7d83d361031",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "12",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "2b50678c21fe6a09c0634591d11860e0f1779387",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6796609a4d7a4f38c83076565da0b437321b3fd5",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "2",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5df27b2d163b336b026f18abb7bed6c529b3b198",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "13"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "835bfcd220b96e57ff1f33bd3f23ba42f4e7e446",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "00bfb4b9299127aabe1aed71dd161b736739033d",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "3",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9ca62b97adaedf66441c18c9fdf3f6c801e04239",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "15"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "66568d45d03d219b9d1809ba652fd02789a6911b",
+  "segment_id" : "6",
+  "bus_count" : "2",
+  "msg_count" : "12",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "3384e645facf78773b5fed7d3a29e67886595be5",
+  "segment_id" : "6",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7c5d4ecafc1d7b56e9b91c6e968fb259a5b39349",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "10",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c30946d496b7033da25f89c00d15c977baa67307",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "cbab034454c66bf927400bc9a54ddfd010394fae",
+  "segment_id" : "6",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "14"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "4c08958739883b5fb1f8bec1d2a00a4e192d0a47",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a9c7f535f85755d2d327e37fc6dc1f824df7c3d1",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "338efc40e048c5e92e63a856332c8f1b266f214b",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "2a2c3506f4c5c91667e594afc2898e23eadb7a5b",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5d1719309bb2d988035aac1f71f2a981937609c6",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "259def31c339e737b4a1e0e5d4c9acab2a3fd66f",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "3",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a9cef3113292e6571c5f4c40d6aa7a0e366b8783",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0acb83aeaef580b2264f171c4c94b9144063b45b",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9cb6f2bfb642a87042539c06c4c7feb28951be35",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "3",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a4f0a432e421a73f4c2ffbbfdaadce749e0f2298",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "47c20c3223cc4c1ddbe72b2678af4ae2806e339a",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "29"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0977b257d3e98abf24dbc4e239f5d2c03a2364f8",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "1",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d42575ec771bac8fa0e22bcb2430b702018d9981",
+  "segment_id" : "7",
+  "bus_count" : "2",
+  "msg_count" : "14",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "8031b9f5f64f2e774b79a182d581bda2c3c84e67",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "236c5533ef37edf725c5e33ee21a0ef74fc7bdc6",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0becea28095092696834c4a881e8ec1238396746",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "cadfcaeac44d0455abb8e0b6f9a02635bc2604e1",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "4c2c8096a889a1d91f8f5e6acba14958c8de6927",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1183b5f7309bc04cb82a70907cbcc04d32dd2a02",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "787f004155c4637a6e2b082674c8018e3fd6c307",
+  "segment_id" : "7",
+  "bus_count" : "3",
+  "msg_count" : "22",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f35faf7a792b28de61b8b0f59d6220ce37621740",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "089f2f3413286ba39f99c10df79a543e1f52f7a6",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "1",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "951db08209ecd3dca27be7dcee52cc4486f2d193",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6a4d573041a27982eb40b9cd1f17f27120c5180e",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "952c6dfed3ebae94737378c476339ddab84aeeb7",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9826284007d8de2bd33176e0faf3923b897ca4a9",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "10",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "af74eec2a26ed38ab51c8db1695375da9ae8ce50",
+  "segment_id" : "7",
+  "bus_count" : "2",
+  "msg_count" : "12",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a24166e7c33ef0fb7bfe557a3f98ad654b795e4b",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "08458d7803373aa969cfda60f39a4925c1522ed4",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "8fe49feff5ac9c7080570a14d78be76079c6a58d",
+  "segment_id" : "7",
+  "bus_count" : "3",
+  "msg_count" : "21",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b6e4accef95115ee79292ed0d399a9d6403146ae",
+  "segment_id" : "7",
+  "bus_count" : "2",
+  "msg_count" : "9",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b1647c9d553b6c55eb73ac25bf2df831ba19528e",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "8904fca700ec4b317916cc0508efbcd2a4a2c06d",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "1",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d2abd0ee3c4516cb78499099ff4be57bc9d9f846",
+  "segment_id" : "7",
+  "bus_count" : "2",
+  "msg_count" : "13",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "acebae14eee2214c43bbf2a1d8ae7816a875994e",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6b065e71b286322af0a51eeff5ac417bba8b8cf5",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "689102c6c6fcda5fb4e8e78bb8d4fb9a7d6b882c",
+  "segment_id" : "7",
+  "bus_count" : "2",
+  "msg_count" : "10",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "91d0225ab598ff85bfee7714ec1fc6d402002cd9",
+  "segment_id" : "7",
+  "bus_count" : "2",
+  "msg_count" : "17",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1b0314ce8eaba7fd8fd3a56fdb4cd355e717c47e",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "55ddeb30a7fb5cb8d8cc910642573fd107e641c0",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "2c29ef2087e8b2e9aa83689761c1adfaf55a1ec7",
+  "segment_id" : "7",
+  "bus_count" : "2",
+  "msg_count" : "12",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "4f627b053be606464cf14fffbff6b5a982e108d1",
+  "segment_id" : "7",
+  "bus_count" : "2",
+  "msg_count" : "5",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "28f0e56c0561d7081c048902fea3fa0b9e38b686",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9274dda7cf9371c8b1a1fb7d1814915c2cf4eb94",
+  "segment_id" : "7",
+  "bus_count" : "2",
+  "msg_count" : "16",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0c52f83c55682047a54ae1d6cc2adec2d92cdee6",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f9b128cc6c0781e712a9c68427b2a1e08d63541c",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "878f8db7d33bc4a3a8b3bd71b6f6f6673bc51dbb",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "10",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "141550a621eb679de758974b7c8eb85aa29cfc08",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ec068578da06f4868ef340478040f15680edaedb",
+  "segment_id" : "7",
+  "bus_count" : "2",
+  "msg_count" : "18",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0558e0b8369bb0bc0f74d3f6a992d7444e903f8a",
+  "segment_id" : "7",
+  "bus_count" : "2",
+  "msg_count" : "12",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "77fc49664d47e8962e07525a8b4197d01a0265fe",
+  "segment_id" : "7",
+  "bus_count" : "2",
+  "msg_count" : "12",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "367babc469236806c09f244bd24122f66fe887ab",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "4",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "19edc2b917373fa459955f9aed18a307cce19e5c",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "63585416f73c6698d913bd6ccf52c28982cc0586",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a6867599f24be3cbc04cf2e28765589290e7a7a2",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "2834e8bafdd4932677f310315fe271c9fb71bd43",
+  "segment_id" : "7",
+  "bus_count" : "2",
+  "msg_count" : "14",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c75d1f827f76205876714b17b1044a8333ede371",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "8a57d9b49e796c29ece9001ef29c986de8a478ff",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "03c64b4e6a7d82c6ea78291d6d98fa4b8cb6856c",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "c334e4be51808c131e963ac3973ad3f72a8c26c6",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ebfc0a5849ffd1f041a7ad7db558b55486bace14",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "147d8aa19dc363b009d0c0bc29a3a34e0e363fc7",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "1",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ba5552be6f75886936bea6f09e303e2df8f60692",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e2a8d4621a77c54c2760b01c1cfb351c12afafc5",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "74a41d4a14ec0c87fff1b75b6ec28e5690b4bfda",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6357a3a9811647666d1c29fb2093c877326700a8",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "10",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "530cc722619b66003287f739a05a3c9c8970c175",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "14841e048581d53ae669cd11b42d4ae17660729b",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1e4b06731875303f3152630a4b343072b29c1bb4",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "35"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1ffc1153b9162b350381e885da3d95ceaa6c1776",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "80d223129697c96385aa97b94c81024d5b5f0a92",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9a7edb21456cb3068993974548c59db41fa21a1a",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "11",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9cb55872781bb2906d182ff42812cc15a7033ea8",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "970765ca4604e9310434018557b905c610ca8df9",
+  "segment_id" : "7",
+  "bus_count" : "2",
+  "msg_count" : "11",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7bb5c02e09b56ed8db3c18117b761d1400ed37fa",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "2",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "2f0b312016f19302ddd7ab569afd55d11021808b",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "293d96d13b09988d41f4ac92444ad3a8c2688a90",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a7923405ff0e7ad97c89201d48b9fb5f35c3b59e",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "29"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "ef3b6441ff6c9e5fa7a3b5d32542818cdab23edf",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "608332e8ccfba7c089cf36aabc11a7453374e825",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "70ac4607f87cbd00d60a40453d4bbf36a02d80c9",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "1d0c02ea5494f5b40937bdbc7211dbc762bc44a4",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d49205334f27990d58e7d9357fc9a3b1050dea70",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7798a044ab5b49ea4f7f9e0691b10f63ac627458",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "15b3da14d0e63eeb5f2f26120f9296af44915b38",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b20230b709febc0108e26906e9c74202c7311a4b",
+  "segment_id" : "7",
+  "bus_count" : "2",
+  "msg_count" : "13",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "0ad816ab9a9b658bc7b3aa7af01129e79199304c",
+  "segment_id" : "7",
+  "bus_count" : "2",
+  "msg_count" : "10",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "dc8d6d2b9102c6882fbeb46bf0f9c199a10cd2ce",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5c0e9caa67e8f35bacc45ef44cd72ce62dbe86ca",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d4f4e35b2ce2262fab0e1f2ae1c54dace8143d9b",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "18"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "104d80712f1d3bb68b6e91452d1be2c1036f419e",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "35c9527a993a43f549b1b3a2ae42a4384dc72639",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "36baccd48aaf7b7d4df1314a0505a059a6e001a0",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "13f901db5489d1b50116dc7eab4ccebd6a2d1c1c",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "b01b37597e5059c8207ea9ab43ad3e0230c14188",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "13edb8703cfd35a04d6bd7484eca120056c3974b",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7d64b002223eadc406925ee29418c8b0c8f995e5",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "706318d9b972c3f508885663729de03aefa456a7",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "aedd46f77db214bc0500c0af0c7084568c0d18c4",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6c54b2ea7420c5e335089c2487468b5f867bb4e4",
+  "segment_id" : "7",
+  "bus_count" : "2",
+  "msg_count" : "8",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a024a089c3a2be1b9116a5bf01538f784ce145f8",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "12",
+  "traffic" : "14"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "81012bfb5497302062087a2e3df31e77d02a381c",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f256166af9d25e9b7a0ba2965498a4c12bcf2d0f",
+  "segment_id" : "7",
+  "bus_count" : "2",
+  "msg_count" : "12",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "92727cabffeb5c949ebd10dabac410baab2f5c35",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "5",
+  "traffic" : "26"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d808606ca4541f71668aa4524e677fc3dda60fc2",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "27a8d6a46b7e241dbc70590cebedae3c5e8e03b1",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "2",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "76a56b0163910d3b4680cfc8f14e38bc3759d132",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "54a840fc71447cc5f0406620deef971939f93d92",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "fd627d629f43dd7ba5ec818d766ba2d1e7a1c87f",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "29"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "2eb8b68803de5b34c50000959f28349307e8e8ca",
+  "segment_id" : "7",
+  "bus_count" : "2",
+  "msg_count" : "9",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6bb1a7fa39508829bedaf58ac82a7a0243244ade",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "10",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "e2b96a0f83ba4ac678210cd03195963ce6e14ed3",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "925996a24989f0e5b40633aac4fb2080fc665a9e",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a6eec4fe91a6cf05fbbc68b574a55bea2b74098b",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "10",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "597db2966ae32991be63b42b0ca7a3608e198579",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "9",
+  "traffic" : "16"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "d0be88e235c6891e8cc09892cf2894d9a2b9790a",
+  "segment_id" : "7",
+  "bus_count" : "2",
+  "msg_count" : "18",
+  "traffic" : "17"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5834d43a7df3fe919086155c34fb0ffbacebcb5b",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "fb6da7cce1da6476a554810c9a931efb504f49a8",
+  "segment_id" : "7",
+  "bus_count" : "3",
+  "msg_count" : "15",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "f1acfdf36e1208e467fbd83b462d26a95b6b7f13",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "7734159e2dd16fc58784bdc994d418a07f8ac36c",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "29"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "165b8e0836e65a8a3eb3b6de26c880c9674a3861",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "28"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "22af0005ffa5a7c2fa76cefd5483de283ed50357",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "24"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "cbba984a7df4c632e60e07b86ac2ffba29ba73a3",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "10",
+  "traffic" : "20"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "121781f64cfaf2a584765c0984349d304fc22641",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "7",
+  "traffic" : "33"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "60cc11a4c419ecd91cebd923efd51e95d76ff5b4",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "21"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "127b3f0ed30d7e842a61e07f0fc4abc36a7f6af2",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "965a445eb477fbc753dffddf87c628fec34acc5d",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "1",
+  "traffic" : "27"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "6209337d0948077ad49edfac0288ce245921af64",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "9b1e88b9373ba37498944f75a53c9f329a281947",
+  "segment_id" : "7",
+  "bus_count" : "2",
+  "msg_count" : "17",
+  "traffic" : "22"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "a28575a4a9bb71f9a91128fc4597d403c115a148",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "25"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "babc79efc6867f3ae113280b91792a216643f236",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "dca6b3ccdd66bba4edaef9e64e903f2cf112c2f4",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "3",
+  "traffic" : "15"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "dfcafad5ef3cecbeb32790b6c3814c017ea6a4ab",
+  "segment_id" : "7",
+  "bus_count" : "0",
+  "msg_count" : "0",
+  "traffic" : "-1"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "5379dcb5abfb232e5412fe3528708c6313dbd135",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "8",
+  "traffic" : "23"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "be4ba0e20739d2e061119f2b53a6a522db802c05",
+  "segment_id" : "7",
+  "bus_count" : "2",
+  "msg_count" : "9",
+  "traffic" : "19"
+}
+, {
+  "last_update" : "2014-12-30T23:50:32",
+  "id" : "681144231700135cfe622fe474dba170173153dc",
+  "segment_id" : "7",
+  "bus_count" : "1",
+  "msg_count" : "6",
+  "traffic" : "23"
+}
+ ]
