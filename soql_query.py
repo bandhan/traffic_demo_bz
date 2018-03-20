@@ -15,18 +15,16 @@ def publish_messages(project, topic_name, msg):
 socrata_domain = 'data.cityofchicago.org'
 socrata_dataset_identifier = 'n4j6-wkkf'
 
-# If you choose to use a token, run the following command on the terminal (or add it to your .bashrc)
-# $ export SODAPY_APPTOKEN=<token>
 socrata_token = os.environ.get('SODAPY_APPTOKEN')
 
-client = Socrata(socrata_domain, socrata_token)
+client = Socrata(socrata_domain, 'zGZx0sjX8p8VvQs4rs3FBZ1fx')
 
 metadata = client.get_metadata(socrata_dataset_identifier)
 last_updated = metadata.get('rowsUpdatedAt')
 
 
 #load old results
-filename = 'data.json'
+filename = '/home/bandhan/code/data.json'
 with open(filename, 'r') as f:
     current_data = json.load(f)
 
@@ -34,20 +32,25 @@ with open(filename, 'r') as f:
 #print (datetime.today())
 #print (date_diff)
 
-# Use the 'order' argument to order the data before downloading it
-results = client.get(socrata_dataset_identifier, order="segmentid ASC", limit=2000) # default limit is 1k
+# Use the 'where' argument to filter the data before downloading it
+results = client.get(socrata_dataset_identifier, order="segmentid ASC", limit=3000) # default limit is 1k
 
 for i in range(len(results)):
     #print('OLD Data: ' + current_data[i].get('segmentid') + ' : ' + current_data[i].get('_last_updt'))
     #print('NEW Data: ' + results[i].get('segmentid') + ' : ' + results[i].get('_last_updt'))
+    
     if results[i].get('_last_updt') > current_data[i].get('_last_updt'):
                 # print('TRUE') - we only care about this data, as other rows have not been updated in 3 days
                 # do something w/ the new/updated data
-                #print(results[i].get('segmentid') + ' (new speed):' + results[i].get('_traffic') + ' recorded at ' + results[i].get('_last_updt'))
+                print (results[i].get('segmentid') + ' (new speed):' + results[i].get('_traffic') + ' recorded at ' + results[i].get('_last_updt'))
                 publish_messages('chicago-traffic-gcp-demo','chicago_traffic_rt', results[i])
+  #              print(i)
+  #              print len(results)
+  #              print len(current_data)
                 #print (results[i])
                 #print (current_data[i])
+#print("Number of results downloaded: {}".format(len(results)))
 
-#write to file (for caching latest results and checking in future whether there is an update)
-with io.open('data.json', 'w', encoding='utf-8') as f:
+
+with io.open('/home/bandhan/code/data.json', 'w', encoding='utf-8') as f:
   f.write(json.dumps(results, indent=3, ensure_ascii=False))
