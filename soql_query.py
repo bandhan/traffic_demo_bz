@@ -8,7 +8,7 @@ def publish_messages(project, topic_name, msg):
     """Publishes multiple messages to a Pub/Sub topic."""
     publisher = pubsub_v1.PublisherClient()
     topic_path = publisher.topic_path(project, topic_name)
-    msg = u'{"ID":"10","CITY":"BOSTON","SEGMENT_ID":"1","STREET":"test","DIRECTION":"test","FROM_STREET":"test","TO_STREET":"test","DISTANCE":"10","START_LONGTITUDE":"-1","START_LATITUTDE":"-1","END_LONGTITUDE":"1","END_LATITUTDE":"1","SPEED":"50","LAST_UPDATED":"2004-05-23T14:25:10.487","COMMENTS":"this is a test"}\n{"ID":"20","CITY":"CAMBRIDGE","SEGMENT_ID":"1","STREET":"test","DIRECTION":"test","FROM_STREET":"test","TO_STREET":"test","DISTANCE":"10","START_LONGTITUDE":"-1","START_LATITUTDE":"-1","END_LONGTITUDE":"1","END_LATITUTDE":"1","SPEED":"50","LAST_UPDATED":"2004-05-23T14:25:10.487","COMMENTS":"this is a test"}\n{"ID":"30","CITY":"ROCKWOOD","SEGMENT_ID":"1","STREET":"test","DIRECTION":"test","FROM_STREET":"test","TO_STREET":"test","DISTANCE":"10","START_LONGTITUDE":"-1","START_LATITUTDE":"-1","END_LONGTITUDE":"1","END_LATITUTDE":"1","SPEED":"50","LAST_UPDATED":"","COMMENTS":"this is a test"}'
+    #msg = u'{"ID":"10","CITY":"BOSTON","SEGMENT_ID":"1","STREET":"test","DIRECTION":"test","FROM_STREET":"test","TO_STREET":"test","DISTANCE":"10","START_LONGTITUDE":"-1","START_LATITUTDE":"-1","END_LONGTITUDE":"1","END_LATITUTDE":"1","SPEED":"50","LAST_UPDATED":"2004-05-23T14:25:10.487","COMMENTS":"this is a test"}\n{"ID":"20","CITY":"CAMBRIDGE","SEGMENT_ID":"1","STREET":"test","DIRECTION":"test","FROM_STREET":"test","TO_STREET":"test","DISTANCE":"10","START_LONGTITUDE":"-1","START_LATITUTDE":"-1","END_LONGTITUDE":"1","END_LATITUTDE":"1","SPEED":"50","LAST_UPDATED":"2004-05-23T14:25:10.487","COMMENTS":"this is a test"}\n{"ID":"30","CITY":"ROCKWOOD","SEGMENT_ID":"1","STREET":"test","DIRECTION":"test","FROM_STREET":"test","TO_STREET":"test","DISTANCE":"10","START_LONGTITUDE":"-1","START_LATITUTDE":"-1","END_LONGTITUDE":"1","END_LATITUTDE":"1","SPEED":"50","LAST_UPDATED":"","COMMENTS":"this is a test"}'
     data = msg.encode('utf-8')
     publisher.publish(topic_path, data=data)
     
@@ -40,10 +40,24 @@ for i in range(len(results)):
     #print('NEW Data: ' + results[i].get('segmentid') + ' : ' + results[i].get('_last_updt'))
     
     if results[i].get('_last_updt') > current_data[i].get('_last_updt'):
-                # print('TRUE') - we only care about this data, as other rows have not been updated in 3 days
-                # do something w/ the new/updated data
-                print (results[i].get('segmentid') + ' (new speed):' + results[i].get('_traffic') + ' recorded at ' + results[i].get('_last_updt'))
-                publish_messages('chicago-traffic-gcp-demo','chicago_traffic_rt', results[i])
+    	# print('TRUE') - we only care about this data, as other rows have not been updated in 3 days
+		print (results[i].get('segmentid') + ' (new speed):' + results[i].get('_traffic') + ' recorded at ' + results[i].get('_last_updt'))
+		time = results[i].get('_last_updt').encode("ascii")
+		segmentID = results[i].get('segmentid').encode("ascii")
+		street = results[i].get('street').encode("ascii")
+		fromSt = results[i].get('_fromst').encode("ascii")
+		toSt = results[i].get('_tost').encode("ascii")
+		direction = results[i].get('_direction').encode("ascii")
+		strHeading = results[i].get('_strheading').encode("ascii")
+		speed = results[i].get('_traffic').encode("ascii")
+		length = results[i].get('_length').encode("ascii")
+		startLat = results[i].get('_lif_lat').encode("ascii")
+		startLong = results[i].get('start_lon').encode("ascii")
+		endLat = results[i].get('_lit_lat').encode("ascii")
+		endLong = results[i].get('_lit_lon').encode("ascii")
+		msg = ('{\"Time\":\"%s\",\"SegmentID\":\"%s\",\"Street\":\"%s\",\"FromSt\":\"%s\",\"ToSt\":\"%s\",\"Direction\":\"%s\",\"StrHeading\":\"%s\",\"Speed\":\"%s\",\"Length\":\"%s\",\"StartLat\":\"%s\",\"StartLong\":\"%s\",\"EndLat\":\"%s\",\"EndLong\":\"%s\"}' % (time, segmentID, street, fromSt, toSt, direction, strHeading, speed, length, startLat, startLong, endLat, endLong))
+		publish_messages('chicago-traffic-gcp-demo','chicago_traffic_rt', msg)
+        
   #              print(i)
   #              print len(results)
   #              print len(current_data)
