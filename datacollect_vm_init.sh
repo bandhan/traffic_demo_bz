@@ -7,7 +7,7 @@ sudo python get-pip.py
 sudo pip install "google-cloud==0.19"
 sudo pip install sodapy
 mkdir /home/bandhan/code
-gsutil cp gs://chicago_traffic_gcp_demo_bandhan/src/update_data.py /home/bandhan/code/update_data.py
+gsutil cp gs://chicago_traffic_gcp_demo_bandhan/src/soql_query.py /home/bandhan/code/soql_query.py
 
 ## Ignore for now
 #sudo chown bandhan /home/bandhan/code

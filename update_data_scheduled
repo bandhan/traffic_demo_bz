@@ -1,1 +1,1 @@
-*/5 * * * * root python /home/bandhan/code/update_data.py
+*/1 * * * * root python /home/bandhan/code/soql_query.py
