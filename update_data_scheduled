@@ -1,1 +1,1 @@
-*/1 * * * * root python /home/bandhan/code/soql_query.py
+*/1 * * * * root python /home/bandhan/code/stream_data.py
